@@ -24,7 +24,7 @@
 <a href="https://discord.gg/flo_oki" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="flo_oki" height="40" width="50" /></a>
 </p>
 
-![Samy GitHub stats](https://github-readme-stats.vercel.app/api?username=floki3&show_icons=true&theme=transparent)
+![Samy GitHub stats](https://github-readme-stats.vercel.app/api?username=FLOKI3&show_icons=true&theme=transparent)
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=FLOKI3&layout=donut) 
 
