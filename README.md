@@ -12,7 +12,7 @@
 
 📚 Editor | 📜 Scripter | 💻 Error Solver | 🎮 Gamer
 
-🌐 Website: [samyakli.me](https://floki3.github.io/samyakli.me/)
+🌐 Website: [samyakli.me](https://floki3.github.io/samyakli.me/)<br>
 💬 Connect with me on Discord: [Join my server](https://discord.gg/Ejp4da5Rb7)
 
 **I am a web developer, and I'm very passionate and dedicated to my work. With 2 years experience as web developer, I have acquired the skills and knowledge necessary to make a project success. I enjoy every step of the coding process, from discussion and collaboration.**
