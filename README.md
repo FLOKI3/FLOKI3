@@ -24,7 +24,6 @@
 <a href="https://discord.gg/flo_oki" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="flo_oki" height="40" width="50" /></a>
 </p>
 
-![samy](https://media.discordapp.net/attachments/1141614526802972732/1249404637400928266/Blue_Modern_Technology_LinkedIn_Banner_2.png?ex=66672e3e&is=6665dcbe&hm=df3ba251afb2673cbac97547c5e1e4a0343b3e1134e6fb47a317250e9573fc77&=&format=webp&quality=lossless&width=810&height=203)
 
 ![Samy GitHub stats](https://github-readme-stats.vercel.app/api?username=FLOKI3&show_icons=true&theme=transparent)
 
