@@ -17,16 +17,18 @@
 
 **I am a web developer, and I'm very passionate and dedicated to my work. With 2 years experience as web developer, I have acquired the skills and knowledge necessary to make a project success. I enjoy every step of the coding process, from discussion and collaboration.**
 
+### [Watch the portfolio_video on YouTube](https://youtu.be/CLut_s87Rl0)
+
+<a href="https://youtu.be/CLut_s87Rl0" target="_blank">
+    <img src="https://img.youtube.com/vi/CLut_s87Rl0/maxresdefault.jpg" alt="Watch the video" width="500" height="281">
+</a>
+
 # My Social Media
 
 <p align="left">
 <a href="https://instagram.com/sa.amy__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sa.amy__" height="40" width="50" /></a>
 <a href="https://discord.gg/flo_oki" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="flo_oki" height="40" width="50" /></a>
 </p>
-
-### [Watch this video on YouTube](https://youtu.be/VuYy9LzIVcs)
-
-[![Watch the video](https://img.youtube.com/vi/VuYy9LzIVcs/maxresdefault.jpg)](https://youtu.be/VuYy9LzIVcs)
 
 ![Samy GitHub stats](https://github-readme-stats.vercel.app/api?username=FLOKI3&show_icons=true&theme=transparent)
 
