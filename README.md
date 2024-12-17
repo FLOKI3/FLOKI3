@@ -24,9 +24,9 @@
 <a href="https://discord.gg/flo_oki" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="flo_oki" height="40" width="50" /></a>
 </p>
 
-[![Watch the video](https://img.youtube.com/vi/VuYy9LzIVcs/maxresdefault.jpg)](https://youtu.be/VuYy9LzIVcs)
-
 ### [Watch this video on YouTube](https://youtu.be/VuYy9LzIVcs)
+
+[![Watch the video](https://img.youtube.com/vi/VuYy9LzIVcs/maxresdefault.jpg)](https://youtu.be/VuYy9LzIVcs)
 
 ![Samy GitHub stats](https://github-readme-stats.vercel.app/api?username=FLOKI3&show_icons=true&theme=transparent)
 
