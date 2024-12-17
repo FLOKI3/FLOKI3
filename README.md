@@ -24,8 +24,6 @@
 <a href="https://discord.gg/flo_oki" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="flo_oki" height="40" width="50" /></a>
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cvbr2047X6g?si=q1mWOnALt-mVmm95" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ![Samy GitHub stats](https://github-readme-stats.vercel.app/api?username=FLOKI3&show_icons=true&theme=transparent)
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=FLOKI3&layout=donut) 
