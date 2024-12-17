@@ -2,7 +2,7 @@
 
 👨‍💻 Programmer | 🌐 Web Developer
 
-🎓 Graduate of Racine University | ✨ 21 years old
+🎓 Graduate of Racine University | ✨ 22 years old
 
 # 🔧 Languages
 
