@@ -6,7 +6,7 @@
 
 # 🔧 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,bootstrap,js,php,mysql)](https://wickdev.xyz/)
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,bootstrap,js,php,laravel,mysql)](https://wickdev.xyz/)
 
 🌍 I Speak Arabic, English, and French
 
