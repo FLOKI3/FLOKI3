@@ -23,8 +23,6 @@
     <img src="https://img.youtube.com/vi/CLut_s87Rl0/maxresdefault.jpg" alt="Watch the video" width="500" height="281">
 </a>
 
-[![committers.top badge](https://user-badge.committers.top/morocco/USERNAME.svg)](https://user-badge.committers.top/morocco/FLOKI3)
-
 # My Social Media
 
 <p align="left">
@@ -35,5 +33,7 @@
 ![Samy GitHub stats](https://github-readme-stats.vercel.app/api?username=FLOKI3&show_icons=true&theme=transparent)
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=FLOKI3&layout=donut) 
+
+[![committers.top badge](https://user-badge.committers.top/morocco/USERNAME.svg)](https://user-badge.committers.top/morocco/FLOKI3)
 
 
