@@ -34,6 +34,5 @@
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=FLOKI3&layout=donut) 
 
-[![committers.top badge](https://user-badge.committers.top/morocco/USERNAME.svg)](https://user-badge.committers.top/morocco/FLOKI3)
 
 
