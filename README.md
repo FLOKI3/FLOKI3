@@ -17,7 +17,7 @@
 
 **I am a web developer, and I'm very passionate and dedicated to my work. With 4 years experience as web developer, I have acquired the skills and knowledge necessary to make a project success. I enjoy every step of the coding process, from discussion and collaboration.**
 
-### [Watch the portfolio video on YouTube](https://youtu.be/CLut_s87Rl0)
+### [Click here to watch my presentation video on YouTube](https://youtu.be/CLut_s87Rl0)
 
 <a href="https://youtu.be/CLut_s87Rl0" target="_blank">
     <img src="https://img.youtube.com/vi/CLut_s87Rl0/maxresdefault.jpg" alt="Watch the video" width="500" height="281">
